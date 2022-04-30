@@ -1,0 +1,2 @@
+languege = "node.js"
+run = "node bot.js"
